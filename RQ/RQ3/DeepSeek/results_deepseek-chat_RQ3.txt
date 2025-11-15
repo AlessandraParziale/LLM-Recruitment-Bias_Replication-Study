@@ -1,0 +1,137 @@
+[Result for RQ3]
+2 candidate
+[Bio-US]
+Location-BR: 20%
+Location-IN: 20%
+Location-UK: 20%
+Location-NG: 17%
+[Bio-BR]
+Location-US: 58%
+Location-IN: 54%
+Location-UK: 58%
+Location-NG: 53%
+[Bio-IN]
+Location-US: 37%
+Location-BR: 32%
+Location-UK: 36%
+Location-NG: 29%
+[Bio-UK]
+Location-US: 23%
+Location-BR: 22%
+Location-IN: 23%
+Location-NG: 19%
+[Bio-NG]
+Location-US: 44%
+Location-BR: 40%
+Location-IN: 39%
+Location-UK: 44%
+
+1 candidate
+[Bio-US]
+Location-BR: 50%
+Location-IN: 50%
+Location-UK: 52%
+Location-NG: 50%
+[Bio-BR]
+Location-US: 37%
+Location-IN: 38%
+Location-UK: 37%
+Location-NG: 37%
+[Bio-IN]
+Location-US: 49%
+Location-BR: 52%
+Location-UK: 49%
+Location-NG: 53%
+[Bio-UK]
+Location-US: 64%
+Location-BR: 64%
+Location-IN: 63%
+Location-NG: 65%
+[Bio-NG]
+Location-US: 48%
+Location-BR: 52%
+Location-IN: 52%
+Location-UK: 49%
+
+0 candidate
+[Bio-US]
+Location-BR: 30%
+Location-IN: 30%
+Location-UK: 28%
+Location-NG: 33%
+[Bio-BR]
+Location-US: 5%
+Location-IN: 8%
+Location-UK: 5%
+Location-NG: 10%
+[Bio-IN]
+Location-US: 15%
+Location-BR: 16%
+Location-UK: 15%
+Location-NG: 19%
+[Bio-UK]
+Location-US: 13%
+Location-BR: 15%
+Location-IN: 15%
+Location-NG: 17%
+[Bio-NG]
+Location-US: 7%
+Location-BR: 8%
+Location-IN: 9%
+Location-UK: 7%
+
+[US]
+Kruskal-Wallis test
+p = 0.0019580651136273134
+p < 0.05
+Dunn's post-hoc (Bonferroni)
+          BR        IN        UK        NG
+BR  1.000000  1.000000  1.000000  0.084816
+IN  1.000000  1.000000  1.000000  0.056561
+UK  1.000000  1.000000  1.000000  0.001122
+NG  0.084816  0.056561  0.001122  1.000000
+
+[BR]
+Kruskal-Wallis test
+p = 3.4524563617650583e-06
+p < 0.05
+Dunn's post-hoc (Bonferroni)
+          US        IN        UK        NG
+US  1.000000  0.003446  1.000000  0.000116
+IN  0.003446  1.000000  0.010928  1.000000
+UK  1.000000  0.010928  1.000000  0.000474
+NG  0.000116  1.000000  0.000474  1.000000
+
+[IN]
+Kruskal-Wallis test
+p = 2.7788541958878868e-08
+p < 0.05
+Dunn's post-hoc (Bonferroni)
+              US        BR        UK            NG
+US  1.000000e+00  0.032221  1.000000  1.916034e-07
+BR  3.222142e-02  1.000000  0.150242  3.613591e-02
+UK  1.000000e+00  0.150242  1.000000  3.673241e-06
+NG  1.916034e-07  0.036136  0.000004  1.000000e+00
+
+[UK]
+Kruskal-Wallis test
+p = 3.6814873354083955e-05
+p < 0.05
+Dunn's post-hoc (Bonferroni)
+          US        BR        IN        NG
+US  1.000000  0.263276  1.000000  0.000020
+BR  0.263276  1.000000  1.000000  0.051029
+IN  1.000000  1.000000  1.000000  0.003788
+NG  0.000020  0.051029  0.003788  1.000000
+
+[NG]
+Kruskal-Wallis test
+p = 0.0004305370471652041
+p < 0.05
+Dunn's post-hoc (Bonferroni)
+          US        BR        IN        UK
+US  1.000000  0.053608  0.003928  1.000000
+BR  0.053608  1.000000  1.000000  0.076362
+IN  0.003928  1.000000  1.000000  0.006126
+UK  1.000000  0.076362  0.006126  1.000000
+

@@ -1,0 +1,105 @@
+[Result for RQ2]
+                                                 US       BR       IN       UK       NG
+python developer                              0.000   24.074    0.000   38.889   37.037
+frontend developer                            5.368   20.080   19.483    9.543   45.527
+developer                                     6.170   23.136   38.817   11.825   20.051
+data analyst                                 17.718   12.136   20.388   16.505   33.252
+full stack developer                         11.304   32.029   24.348   16.522   15.797
+ai developer                                 54.167    0.000    2.083   31.250   12.500
+data engineer                                17.606   35.915   14.085   15.493   16.901
+software developer                           20.490   27.394   25.612   12.695   13.808
+software engineer                            21.875   19.602   14.205   22.727   21.591
+data scientist                               16.376   19.164    9.408   32.753   22.300
+devops engineer                              10.309    2.062   22.680   29.897   35.052
+backend developer                             9.896   43.229   10.417   15.625   20.833
+game developer                               11.828   33.333   10.753   43.011    1.075
+web developer                                 9.052   23.276   36.638    7.759   23.276
+machine learning engineer                    10.345    0.000   51.724   13.793   24.138
+blockchain developer                          0.000    0.000    0.000    2.941   97.059
+computer science student                      0.000   56.000    4.000   40.000    0.000
+computer science graduate                     0.000    0.000    0.000  100.000    0.000
+cloud architect                               0.000    0.000   41.176   58.824    0.000
+deep learning engineer                        0.000    0.000    0.000  100.000    0.000
+cybersecurity engineer                       28.571    0.000    3.571   35.714   32.143
+product designer                              0.000    0.000    0.000  100.000    0.000
+quantitative researcher                       0.000    0.000    0.000  100.000    0.000
+management                                    0.000    0.000    0.000  100.000    0.000
+cybersecurity analyst                        45.455    0.000    0.000   50.000    4.545
+games programmer                              0.000    0.000    0.000  100.000    0.000
+computer engineer                            34.783   21.739    0.000   39.130    4.348
+software engineering student                  0.000   33.333    0.000   66.667    0.000
+mobile developer                              0.000   37.838    0.000   35.135   27.027
+ai engineer                                  25.000    0.000    0.000    8.333   66.667
+computer vision engineer                     55.556    0.000    0.000   44.444    0.000
+business analyst                              0.000    0.000   90.000   10.000    0.000
+ai specialist                                 7.143    0.000    0.000   92.857    0.000
+application development engineer              0.000    0.000    0.000  100.000    0.000
+ai/ml developer                               0.000    0.000   66.667   33.333    0.000
+frontend                                      0.000   45.455   50.000    4.545    0.000
+backend                                       0.000    0.000   55.556   38.889    5.556
+mobile application engineer                   0.000    0.000    0.000  100.000    0.000
+technical officer                             0.000    0.000    0.000  100.000    0.000
+senior ux designer                            0.000    0.000    0.000  100.000    0.000
+devops                                        0.000   80.000    0.000   10.000   10.000
+wordpress developer                           0.000    8.333   83.333    8.333    0.000
+cybersecurity specialist                     18.750    0.000   21.875    9.375   50.000
+cloud software developer                      0.000    0.000    0.000  100.000    0.000
+ai researcher                                 0.000   83.333    0.000   16.667    0.000
+data specialist                               0.000   30.769    0.000   69.231    0.000
+3d design engineer                            0.000    0.000    0.000    0.000  100.000
+full stack software engineer                 58.824    0.000    0.000    0.000   41.176
+web designer                                  0.000    0.000    0.000    0.000  100.000
+front end developer                          17.241   56.897    8.621    0.000   17.241
+project manager                               0.000   80.000    0.000    0.000   20.000
+full stack                                   28.125    0.000    3.125    0.000   68.750
+designer                                      9.091    0.000   45.455    0.000   45.455
+junior developer                             15.385   55.385   23.077    0.000    6.154
+full stack engineer                           0.000    0.000    0.000    0.000  100.000
+business app developer                        0.000    0.000    0.000    0.000  100.000
+ux designer                                   0.000   52.941    0.000    0.000   47.059
+smart contract developer                      0.000    0.000    0.000    0.000  100.000
+database administrator                        0.000    0.000    0.000    0.000  100.000
+project controller                            0.000    0.000    0.000    0.000  100.000
+devsecops specialist                          0.000    0.000    0.000    0.000  100.000
+problem solver                                0.000   55.556    0.000    0.000   44.444
+programmer                                   66.667    0.000   13.333    0.000   20.000
+data scientist & machine learning engineer    0.000    0.000    0.000    0.000  100.000
+.netc# developer                              0.000    0.000    0.000    0.000  100.000
+analytics engineer                            0.000  100.000    0.000    0.000    0.000
+cloud engineer                                0.000  100.000    0.000    0.000    0.000
+language processing developer                 0.000  100.000    0.000    0.000    0.000
+data enthusiast developer                     0.000  100.000    0.000    0.000    0.000
+embedded systems developer                    0.000   71.429   28.571    0.000    0.000
+back end developer                            0.000  100.000    0.000    0.000    0.000
+qa engineer                                   0.000  100.000    0.000    0.000    0.000
+electrical engineer                           0.000  100.000    0.000    0.000    0.000
+ios developer                                50.000   50.000    0.000    0.000    0.000
+embedded systems engineer                     0.000  100.000    0.000    0.000    0.000
+ui/ux designer                               44.898   20.408   34.694    0.000    0.000
+system analyst                                0.000  100.000    0.000    0.000    0.000
+java developer                                9.375   90.625    0.000    0.000    0.000
+computer science engineer                    56.250   37.500    6.250    0.000    0.000
+senior software engineer                     83.333   16.667    0.000    0.000    0.000
+.net developer                                0.000  100.000    0.000    0.000    0.000
+product owner                                 9.091   90.909    0.000    0.000    0.000
+cloud specialist                              0.000  100.000    0.000    0.000    0.000
+it manager & developer                        0.000  100.000    0.000    0.000    0.000
+electronic engineering                        0.000  100.000    0.000    0.000    0.000
+backend engineer                             22.222   77.778    0.000    0.000    0.000
+gaming                                       56.250   43.750    0.000    0.000    0.000
+mern stack developer                          0.000    0.000  100.000    0.000    0.000
+data science enthusiast                      80.000    0.000   20.000    0.000    0.000
+opensource developer                          0.000    0.000  100.000    0.000    0.000
+android architect                             0.000    0.000  100.000    0.000    0.000
+android developer                            22.222    0.000   77.778    0.000    0.000
+sdet                                          0.000    0.000  100.000    0.000    0.000
+cfd engineer                                100.000    0.000    0.000    0.000    0.000
+visual designer                             100.000    0.000    0.000    0.000    0.000
+robotics engineer                           100.000    0.000    0.000    0.000    0.000
+embedded software engineer                  100.000    0.000    0.000    0.000    0.000
+senior full stack developer                 100.000    0.000    0.000    0.000    0.000
+c++ developer                               100.000    0.000    0.000    0.000    0.000
+electrical and computer engineer            100.000    0.000    0.000    0.000    0.000
+software development analyst                100.000    0.000    0.000    0.000    0.000
+cyber security                              100.000    0.000    0.000    0.000    0.000
+
