@@ -29,6 +29,7 @@ This root folder includes one subfolder per research question:
 - `RQ1/`
 - `RQ2/`
 - `RQ3/`
+  
 and a subfolder named `recruit-results/` that contains the raw recruitment decisions by the LLMs.
 
 
@@ -43,4 +44,5 @@ Inside each LLM-specific folder you will find:
 - **Post-processing scripts** for data cleaning or aggregating results (when applicable)
 
 ---
+
 
